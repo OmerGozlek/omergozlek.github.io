@@ -1,7 +1,7 @@
 Ömer Gözlek Developer Web Site
 
-Mail to me at omergozlek@qgmail.com for support of products I developed.
+To get support for the products I have developed, send an e-mail to omergozlek@gmail.com.
 
 Ömer Gözlek Geliştirici Web Site
 
-Ürün desteği için omergozlek@mail.com adresine e-posta gönderiniz. 
+Ürün desteği için omergozlek@gmail.com adresine e-posta gönderiniz. 
